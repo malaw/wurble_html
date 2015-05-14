@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="71px" height="70px" viewBox="0 0 71 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3 (11970) - http://www.bohemiancoding.com/sketch -->
+    <title>3.7 Desktop—Testimonial form end private client</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="3.7-Desktop—Testimonial-form-end-private-client" sketch:type="MSArtboardGroup" transform="translate(-972.348196, -731.000000)">
+            <rect id="Rectangle-19" fill="#F0F0F0" sketch:type="MSShapeGroup" x="1" y="0" width="1800" height="1012"></rect>
+            <g id="SHARE-+-Oval-77-+-f_logo-+-TEXT-+-Oval-77-+-f_logo-+-Fill-1-+-EMAIL-+-Oval-79-+-Fill-1" sketch:type="MSLayerGroup" transform="translate(758.000000, 733.000000)">
+                <g id="EMAIL-+-Oval-79-+-Fill-1" transform="translate(217.000000, 0.000000)" sketch:type="MSShapeGroup">
+                    <g id="Oval-79-+-Fill-1" transform="translate(0.000000, 0.000000)">
+                        <circle id="Oval-79" fill="#FFFFFF" cx="33" cy="33" r="28"></circle>
+                        <path d="M33.0031731,0 C15.0549808,0 0.508326923,14.488434 0.508326923,32.3647925 C0.508326923,50.2348302 15.0549808,64.7232642 33.0031731,64.7232642 C50.9450192,64.7232642 65.4916731,50.2348302 65.4916731,32.3647925 C65.4916731,14.488434 50.9450192,0 33.0031731,0 L33.0031731,0 Z M21.4334554,20.8411981 L44.5683717,20.8411981 C44.9814145,20.8411981 45.3845154,20.9285172 45.7514637,21.0941533 L33.0031731,35.9122839 L20.2503634,21.0941533 C20.6173117,20.9285172 21.0204126,20.8411981 21.4334554,20.8411981 L21.4334554,20.8411981 Z M18.5421557,41.003794 L18.5421557,23.720926 C18.5421557,23.661513 18.5421557,23.6011999 18.5448672,23.5417869 L27.0289653,33.394435 L18.6406714,41.7491565 C18.5737892,41.5106045 18.5421557,41.2603499 18.5421557,41.003794 L18.5421557,41.003794 Z M44.5683717,43.8835219 L21.4334554,43.8835219 C21.1794838,43.8835219 20.9246083,43.852015 20.6850977,43.7854005 L28.9143204,35.5891135 L32.9995578,40.3394492 L37.0875067,35.5891135 L45.3176332,43.7890012 C45.0736035,43.852015 44.8232471,43.8871226 44.5683717,43.8871226 L44.5683717,43.8835219 Z M47.4641904,41.003794 C47.4641904,41.2567492 47.4289417,41.5106045 47.3611557,41.7491565 L38.9764771,33.394435 L47.4569599,23.5417869 C47.4605752,23.6011999 47.4641904,23.661513 47.4641904,23.720926 L47.4641904,41.003794 Z" id="Fill-1" fill="#00B4B1"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

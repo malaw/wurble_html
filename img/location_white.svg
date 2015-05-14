@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="28px" viewBox="0 0 20 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.1 (12005) - http://www.bohemiancoding.com/sketch -->
+    <title>MANLY  •  JANUARY 20 + Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.14 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Profile-Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="2.1-Mobile—Profile-Home" sketch:type="MSArtboardGroup" transform="translate(-31.000000, -1406.000000)" filter="url(#filter-1)" fill="#FFFFFF">
+            <g id="MANLY--•--JANUARY-20-+-Shape" sketch:type="MSLayerGroup" transform="translate(33.500000, 1406.367384)">
+                <path d="M7.49515039,0.291115021 C3.35557883,0.291115021 0,3.64804246 0,7.78927772 C0,15.2874404 7.49515039,24.2852357 7.49515039,24.2852357 C7.49515039,24.2852357 14.9903008,15.2874404 14.9903008,7.78927772 C14.9903008,3.64804246 11.6347219,0.291115021 7.49515039,0.291115021 L7.49515039,0.291115021 Z M7.49515039,12.2881753 C5.01125755,12.2881753 2.99806016,10.2741688 2.99806016,7.78927772 C2.99806016,5.3043866 5.01125755,3.2903801 7.49515039,3.2903801 C9.97904323,3.2903801 11.9922406,5.3043866 11.9922406,7.78927772 C11.9922406,10.2741688 9.97866847,12.2881753 7.49515039,12.2881753 L7.49515039,12.2881753 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

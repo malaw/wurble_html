@@ -1,0 +1,133 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Testimonial Form End Tradie Client</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/owl.carousel.css">
+        <link rel="stylesheet" href="css/owl.theme.css">
+        <link rel="stylesheet" href="css/main.css">
+
+        <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <div class="body_wrapper">
+       <section class="testimonial_trade_client">
+        <div class="testimonial_private_top">
+            <div class="container">
+                <div class="row">
+                     <div class="col-sm-4 col-md-4 col-xs-12 col-md-offset-4 col-sm-offset-4">
+                        <div class="testimonial_private_logo">
+                              <a href="index.html"><img src="img/logo@2x.png" alt=""></a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+        <div class="testimonial_private_content testimonial-end-client">
+            <div class="container">
+                <div class="row">
+                     <div class="col-sm-12 col-md-6 col-xs-12 col-md-offset-3 ">
+                        <div class="private_content_inner">
+                            <span class="indication_img"><img src="img/img_profile.png" alt="" class="sign_logo"><span class="circle"><img src="img/right.svg" alt=""></span></span>
+                            <div class="private_content">
+                                <span>YOUR TESTIMONIAL FOR</span>
+                            <span>PETER MONTERIO HAS BEEN SUBMITTED</span>
+                            <img src="img/smile.svg" alt="" class="smile_img">
+                            <h3>Thanks Joe!</h3>
+                            <h3> Now start building your own reputation in the trades.</h3>
+                                <a href="" class="download">Download our app</a>
+                            
+                            <a class="up_link" href="#"><img src="img/down.svg" alt=""><span>WHAT'S WURBLE</span></a>
+
+                            <div class="testimonial_tradie private_content" id="download_tradie">
+                             
+                                <div class="slider">
+
+                                    <div id="owl-demo" class="owl-carousel owl-theme">
+ 
+                                      <div class="item"><img src="img/testtimonial_slider.png" alt=""></div>
+                                      <div class="item"><img src="img/testtimonial_slider.png" alt=""></div>
+                                      <div class="item"><img src="img/testtimonial_slider.png" alt=""></div>
+                                      
+                                     
+                                    </div>
+                                    
+                                </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                        </div>
+                     </div>
+                    
+                </div>
+            </div>
+        </div>
+           
+       </section>
+
+    </div> 
+     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+    <script src="js/jquery.flexslider-min.js"></script>
+    <script src="js/jquery.fancybox.js"></script>
+    <script src="js/owl.carousel.js"></script>
+    <script src="js/jquery.placeholder.js"></script>
+    <script src="js/jquery.limit-1.2.source.js"></script>
+
+    <script src="js/main.js"></script>
+
+    <div class="overlay_div"></div>
+
+    <script>
+    $(document).ready(function() {
+ 
+      $("#owl-demo").owlCarousel({
+     
+          navigation : false, // Show next and prev buttons
+          slideSpeed : 300,
+          paginationSpeed : 400,
+          singleItem:true,
+           autoPlay : 5000
+     
+          // "singleItem:true" is a shortcut for:
+          // items : 1, 
+          // itemsDesktop : false,
+          // itemsDesktopSmall : false,
+          // itemsTablet: false,
+          // itemsMobile : false
+     
+      });
+
+       $(".up_link").click(function (e){
+                e.preventDefault();
+                //$(this).animate(function(){
+                    $('html, body').animate({
+                        scrollTop: $("#download_tradie").offset().top
+                    }, 2000);
+                //});
+            });
+     
+    });
+
+    </script>
+
+
+
+
+
+    </body>
+</html>
